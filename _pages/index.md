@@ -10,5 +10,5 @@ homepage: true
 
 # Natural Language Processing at Stanford
 
-These pages contain an outline history of the Stanford NLP Group and other parts of the history of Natural Language Processing at Stanford University.
+Welcome! These pages contain an outline history of the Stanford NLP Group and other parts of the history of Natural Language Processing at Stanford University.
 

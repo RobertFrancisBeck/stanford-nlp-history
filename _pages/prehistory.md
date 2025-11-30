@@ -25,13 +25,13 @@ She was the advisor of several people who later became prominent
 including David Scott Warren and C. Ray Perrault (who in turn was the
 PhD advisor of James Allen).
 
-![Desktop View](/assets/images/Joyce-Friedman.jpg)
+![](../../assets/images/Joyce-Friedman.jpg)
 _Joyce Friedman_
 
-![Desktop View](/assets/images/Ray-Perrault.jpg)
+![](../../assets/images/Ray-Perrault.jpg)
 _C. Ray Perrault_
 &nbsp; 
-![Desktop View](/assets/images/David-Scott-Warren-190.jpeg)
+![](../../assets/images/David-Scott-Warren-190.jpeg)
 _David Scott Warren_
  
 ## Raj Reddy
@@ -49,13 +49,16 @@ Award for his pioneering research on speech recognition. PhD students
 of Raj Reddy include James Gosling, Kai-Fu Lee, Roni Rosenfeld, and
 Alex Waibel.
 
+![](../../assets/images/Raj-Reddy-220.jpeg)
+_Raj Reddy_
+
 
 ## Roger Schank
 
 The next NLP faculty at Stanford CS was [Roger Schank](https://en.wikipedia.org/wiki/Roger_Schank) (1946–2023;
 Stanford CS faculty 1968–1973). 
 
-![Desktop View](/assets/images/Roger-Schank.png)
+![](../../assets/images/Roger-Schank.png)
 _Roger Schank_
  
 Roger Schank was a controversial and
@@ -96,7 +99,7 @@ by around 1984, he had stopped doing AI and hence NLP, and began to
 reinvent himself as an human-computer interaction researcher. He
 founded the [Stanford HCI Group](https://hci.stanford.edu/) and for many years was its only faculty member.
 
-![Desktop View](/assets/images/Terry-Winograd-300.jpg)
+![](../../assets/images/Terry-Winograd-300.jpg)
 _Terry Winograd_
 
 ## The (Stanford) NLP Winter 🥶
@@ -112,7 +115,7 @@ this period by working at one or other of those labs. They include:
 Mark Johnson (1987), Dan Flickinger (1988), Stuart Shieber (1989), and
 David Magerman (1994).
 
-![Desktop View](/assets/images/Martin_Kay.png)
+![](../../assets/images/Martin_Kay.png)
 _Martin Kay_
 
 

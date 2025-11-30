@@ -15,11 +15,11 @@ faculty position in Linguistics and Computer Science. Here are some
 early photos of Chris at Stanford from the Fall 1999 CS Department
 Retreat taken by Héctor García-Molina. 
 
-![Desktop View](/assets/images/CSretreat1999-2.jpg)
+![Desktop View](../../assets/images/CSretreat1999-2.jpg)
 
 _Christopher Manning with Daphne Koller_
 
-![Desktop View](/assets/images/CSretreat1999-6.jpg)
+![Desktop View](../../assets/images/CSretreat1999-6.jpg)
 
 _Chris, then CS department chair Jean-Claude Latombe, department manager Peche Turner,
 and Professor Héctor García-Molina_
@@ -30,10 +30,10 @@ The first two Stanford NLP PhD students were Kristina Toutanova and
 then Dan Klein.
 
 
-![Desktop View](/assets/images/Toutanova-Kristina-160.jpg)
+![Desktop View](../../assets/images/Toutanova-Kristina-160.jpg)
 _Kristina Toutanova_
 &nbsp;
-![Desktop View](/assets/images/Klein-Dan-160.jpg)
+![Desktop View](../../assets/images/Klein-Dan-160.jpg)
 _Dan Klein_
 
 ## 2001–2003
@@ -43,16 +43,16 @@ then Jenny Finkel. (As usual, there then start to be some more
 complicated situations: Teg later dropped out and, actually, Jenny was an MS CS student during this period,
 but later a PhD student). 
 
-![Desktop View](/assets/images/Kamvar160.jpg)
+![Desktop View](../../assets/images/Kamvar160.jpg)
 _Sep Kamvar_
 &nbsp;
-![Desktop View](/assets/images/Levy-Roger-160.jpg)
+![Desktop View](../../assets/images/Levy-Roger-160.jpg)
 _Roger Levy_
 &nbsp;
-![Desktop View](/assets/images/teg-grenager-160.jpg)
+![Desktop View](../../assets/images/teg-grenager-160.jpg)
 _Teg Grenager_
 &nbsp;
-![Desktop View](/assets/images/Finkel-Jenny-160.jpg)
+![Desktop View](../../assets/images/Finkel-Jenny-160.jpg)
 _Jenny Finkel_
  
 Other students and visiting faculty around the Stanford NLP Group during these early years
@@ -65,7 +65,7 @@ Stanford NLP Group”, but it definitely came into existence in the
 year 2000. The first save of the group's website by the Internet
 Archive is from 2000-10-29. Here's what the original page looked like:
 
-![Desktop View](/assets/images/Stanford-NLP-webpage-2000.png)
+![Desktop View](../../assets/images/Stanford-NLP-webpage-2000.png)
 _Earliest save of the Stanford NLP Group web page in the Internet
 Archive_
 
