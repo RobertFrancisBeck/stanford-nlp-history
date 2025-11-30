@@ -69,15 +69,3 @@ Archive is from 2000-10-29. Here's what the original page looked like:
 _Earliest save of the Stanford NLP Group web page in the Internet
 Archive_
 
-The name “Stanford NLP Group” refects two dispreferences of Chris Manning against the
-common pattern of using names like “Smith Lab” (perhaps
-reflecting his linguistics background?): He disapproved of naming
-groups after professors, when students are the mainstay of the
-research of any group and he thought using “lab” was a little silly
-when actually there was never going to be any laboratory for the group.
-(Nevertheless, another early name he considered was the Language
-Technology Research Laboratory (LaTeRaL), reflecting enthusiasm for
-the more inclusive term “Language Technology” at the time. Because of
-this, the first two computers of the group, both Sun workstations,
-were called `nlp` and `lateral`. `nlp` has been replaced several
-times, but a machine with this name remains our webserver, `nlp.stanford.edu`.

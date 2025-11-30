@@ -55,3 +55,53 @@ a single digit size in its earliest years, a size in the teens till
 about 2010, and then has exploded in size so that there are now over
 100 current members.
 
+
+### 2004 (at NLP Lunch with significant others)
+
+![](../../assets/images/nlp-lunch-2004-DSCN2325.jpg)
+
+### 2008 (end of year BBQ)
+
+![](../../assets/images/DSC00535.JPG)
+
+ ![](../../assets/images/DSC00538.JPG)
+
+ ![](../../assets/images/DSC00542.JPG)
+
+### 2013 (after NLP Lunch)
+
+![](../../assets/images/IMG_1238_Stanford-NLP-2013.jpeg)
+
+### 2015 (First NLP Retreat)
+
+![](../../assets/images/2015_group_photo.jpg)
+
+![](../../assets/images/IMG_0079_Stanford-NLP-in-Beijing.jpeg)
+
+### 2016 (NLP Retreat)
+
+![](../../assets/images/group-photo-2016.jpg)
+
+### 2018 (NLP Retreat)
+
+![](../../assets/images/group-photo-2018.jpg)
+
+### 2020 (Covid-19 strikes)
+
+![](../../assets/images/Covid.png)
+
+### 2022 (many post-opening gatherings!)
+
+![](../../assets/images/group-photo-2022.jpg)
+
+![](../../assets/images/sail_lab_051122_0037_stanford-nlp-group.jpg)
+
+![](../../assets/images/Stanford-NLP-Group-and-alumni-2022_0713_14155600~2.jpg)
+
+### 2024 (NLP Retreat)
+
+![](../../assets/images/group-photo-2024.jpg)
+
+### 2025 (NLP Retreat)
+
+![](../../assets/images/nlp-retreat-2025-IMG_9757-1440.jpg)
