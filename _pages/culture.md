@@ -35,12 +35,12 @@ producing conference papers. 😊 Even when other universities have
 students in varies departments working on NLP, it is very rare that
 they actually have a unified group like ours.
 
-![Desktop View](/assets/images/ling-students-reading.jpg)
+![Desktop View](../../assets/images/ling-students-reading.jpg)
 
-![Desktop View](/assets/images/paper-awards-2024.jpg)
+![Desktop View](../../assets/images/paper-awards-2024.jpg)
 
-![Desktop View](/assets/images/eating-lunch.jpg)
+![Desktop View](../../assets/images/eating-lunch.jpg)
 
-![Desktop View](/assets/images/alexa-prize.jpg)
+![Desktop View](../../assets/images/alexa-prize.jpg)
 
 

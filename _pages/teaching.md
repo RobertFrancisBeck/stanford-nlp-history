@@ -15,7 +15,7 @@ education, both at Stanford and worldwide.
 Externally, we have been lead authors of three of the leading language
 technology textbooks.
 
-![](../../assets/images/FSNLP.png)
+![](../../assets/images/FSNLP-321.jpg)
 _Foundations of Statistical Natural Language Processing_
 
 ![](../../assets/images/SLP.png)
