@@ -98,6 +98,10 @@ about 2010, and then has exploded in size so that there are now over
 
 ![](../../assets/images/Stanford-NLP-Group-and-alumni-2022_0713_14155600~2.jpg)
 
+### 2023
+
+![](../../assets/images/group-photo-2023.jpg)
+
 ### 2024 (NLP Retreat)
 
 ![](../../assets/images/group-photo-2024.jpg)
