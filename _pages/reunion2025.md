@@ -7,11 +7,11 @@ nav_order: 11
 # parent: Introduction
 ---
 
-# Stanford NLP Reunion 2025 (in the Gates Computer Science Building (room 119 and courtyard)
+# Stanford NLP Reunion 2025
 
 We were delighted to welcome so many of our alumni back for a 25th
 Stanford NLP Reunion in October 2025, held at the Gates Computer
-Science Building. Here are a few photos of the event. There are more
+Science Building (in the HAI space, Gates 119, and the courtyard). Here are a few photos of the event. There are more
 in a Google Photos folder for attendees.
 
 ![](../../assets/images/PXL_20251024_223625625.jpg)
