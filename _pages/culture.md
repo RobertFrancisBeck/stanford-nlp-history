@@ -4,7 +4,7 @@ layout: page
 keywords: culture
 # permalink: '/prehistory.html'
 nav_order: 6
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # The culture of the Stanford NLP Group

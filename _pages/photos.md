@@ -4,7 +4,7 @@ layout: page
 keywords: Stanford NLP, photos
 # permalink: '/prehistory.html'
 nav_order: 10
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # Miscellaneous photos

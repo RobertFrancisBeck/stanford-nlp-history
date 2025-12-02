@@ -4,7 +4,7 @@ layout: page
 keywords: history, origins
 # permalink: '/prehistory.html'
 nav_order: 4
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # NLP at Stanford before the Stanford NLP Group 

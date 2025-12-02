@@ -4,7 +4,7 @@ layout: page
 keywords: Stanford NLP, photos, reunion
 # permalink: '/prehistory.html'
 nav_order: 11
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # Stanford NLP Reunion 2025
@@ -13,6 +13,9 @@ We were delighted to welcome so many of our alumni back for a 25th
 Stanford NLP Reunion in October 2025, held at the Gates Computer
 Science Building (in the HAI space, Gates 119, and the courtyard). Here are a few photos of the event. There are more
 in a Google Photos folder for attendees.
+
+![](../../assets/images/Stanford-NLP-25th-Reunion-Sticker-360.jpg)
+
 
 ![](../../assets/images/PXL_20251024_223625625.jpg)
 ![](../../assets/images/PXL_20251024_231701280.MP.jpg)

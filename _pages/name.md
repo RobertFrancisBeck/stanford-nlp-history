@@ -4,7 +4,7 @@ layout: page
 keywords: name
 # permalink: '/prehistory.html'
 nav_order: 5
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # The name “Stanford NLP Group”

@@ -4,7 +4,7 @@ layout: page
 keywords: history, origins
 # permalink: '/origins.html'
 nav_order: 2
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # Origins of the Stanford NLP Group: 1999–2003

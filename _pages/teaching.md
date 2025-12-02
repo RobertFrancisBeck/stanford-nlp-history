@@ -4,7 +4,7 @@ layout: page
 keywords: teaching, education
 # permalink: '/
 nav_order: 7
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # An emphasis on education

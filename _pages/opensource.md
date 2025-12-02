@@ -4,7 +4,7 @@ layout: page
 keywords: open-source, models, datasets, NLP
 # permalink: '/
 nav_order: 9
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # Open-source code and datasets

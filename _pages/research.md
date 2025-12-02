@@ -4,7 +4,7 @@ layout: page
 keywords: research, nlp
 # permalink: '/
 nav_order: 8
-# parent: Introduction
+parent: The Stanford NLP Group
 ---
 
 # Stanford NLP Group Research
