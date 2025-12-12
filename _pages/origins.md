@@ -62,8 +62,8 @@ Thompson, Jeannette Pettibone, and Iddo Lev.
 
 It's not completely clear when there was first something called “The
 Stanford NLP Group”, but it definitely came into existence in the
-year 2000. The first save of the group's website by the Internet
-Archive is from 2000-10-29. Here's what the original page looked like:
+year 2000. The [first save of the group's website by the Internet
+Archive](https://web.archive.org/web/20001029140527/https://nlp.stanford.edu/) is from 2000-10-29. Here's what the original page looked like:
 
 ![Desktop View](../../assets/images/Stanford-NLP-webpage-2000.png)
 _Earliest save of the Stanford NLP Group web page in the Internet

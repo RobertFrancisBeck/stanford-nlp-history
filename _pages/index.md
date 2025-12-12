@@ -12,8 +12,8 @@ homepage: true
 
 # Natural Language Processing at Stanford
 
- Welcome! These pages contain an outline history of the Stanford NLP
- Group and other parts of the history of Natural Language Processing
+ Welcome! These pages contain an outline history of [the Stanford NLP
+ Group](https://nlp.stanford.edu/) and other parts of the history of Natural Language Processing
  at Stanford University, initially put together for the Stanford NLP
  Group 25th Anniversary Reunion.
 

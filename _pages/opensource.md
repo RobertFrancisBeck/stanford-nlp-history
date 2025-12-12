@@ -45,7 +45,7 @@ become our most-adopted piece of software.
 
 ## Alpaca
 
-The Stanford Alpaca code and related releases for evaluation and RLHF
+The [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) code and related releases for evaluation and RLHF
 have been broadly copied and adopted.
 
 ## Other software
@@ -69,9 +69,9 @@ LLaVAR for visual instruction  tuning.
 We have also released many influential datasets and evaluations
 including:
 
-- The Stanford Question Answering Dataset (SQuAD)
-- The Stanford Sentiment Treebank (SST)
-- The Stanford Natural Language Inference dataset (SNLI)
+- [The Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/)
+- [The Stanford Sentiment Treebank (SST)](https://nlp.stanford.edu/sentiment/treebank.html)
+- [The Stanford Natural Language Inference dataset (SNLI)](https://nlp.stanford.edu/projects/snli/)
 - The Holistic Evaluation of Language Models (HELM) benchmark
 - WILDS: A benchmark of in-the-wild distribution shifts
 - Alpaca Eval evaluation of instruction-following LLMs
