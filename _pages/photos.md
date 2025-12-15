@@ -61,7 +61,7 @@ large to consider restarting them.
 
 ## 2021 Covid-era Stanford NLP Commencement Ceremony (!)
 
-![](../../assets/images/commencement-1.jpg)
+![](../../assets/images/Stanford-NLP-Commencement-2021-IMG_3479-lores.jpg)
 
 
 ## Stanford NLP Hikes
