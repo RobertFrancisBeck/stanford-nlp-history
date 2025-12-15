@@ -17,3 +17,5 @@ homepage: true
  at Stanford University, initially put together for the Stanford NLP
  Group 25th Anniversary Reunion.
 
+[Support us!](https://nlp.stanford.edu/support.shtml)
+
