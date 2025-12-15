@@ -42,8 +42,8 @@ they have a unified group like ours.
 
 ![](../../assets/images/paper-awards-2024.jpg)
 
+![](../../assets/images/nlp-retreat-2018-beach-IMG_4385.jpg)
+
 ![](../../assets/images/eating-lunch.jpg)
 
 ![](../../assets/images/alexa-prize.jpg)
-
-![](../../assets/images/nlp-retreat-2018-beach-IMG_4385.jpg)

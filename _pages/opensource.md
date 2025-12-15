@@ -52,17 +52,17 @@ have been broadly copied and adopted.
 
 Many of our other research projects are also accompanied by
 open-source software releases. Some of the more notable ones are:
-the DSIR large-scale data selection framework for LLM pre-training, 
-the GloVe word vectors code,
-the PyReFT library for representation finetuning,
-the package for TreeLSTM neural networks,
-the PyVene library for interventions in neural networks,
-the string2string algorithms library, 
-MAC networks for machine reasoning, 
-the Phrasal statistical machine translation library,
-an ArXiv paper assistant, 
+[the DSIR large-scale data selection framework for LLM pre-training](https://github.com/p-lambda/dsir), 
+[the GloVe word vectors code and vectors](https://nlp.stanford.edu/projects/glove/),
+[the PyReFT library for representation finetuning](https://github.com/stanfordnlp/pyreft),
+[the package for TreeLSTM neural networks](https://github.com/stanfordnlp/treelstm),
+[the PyVene library for interventions in neural networks](https://github.com/stanfordnlp/pyvene),
+[the string2string algorithms library](https://github.com/stanfordnlp/string2string), 
+[Compositional Attention Networks for Machine Reasoning (MAC networks)](https://github.com/stanfordnlp/mac-network), 
+[the Phrasal statistical machine translation library](https://github.com/stanfordnlp/phrasal),
+[https://github.com/tatsu-lab/gpt_paper_assistant: A daily ArXiv scanner](https://github.com/tatsu-lab/gpt_paper_assistant), 
 and
-LLaVAR for visual instruction  tuning.
+[LLaVAR for visual instruction  tuning](https://github.com/SALT-NLP/LLaVAR).
 
 ## Open data and benchmarks
 
@@ -72,7 +72,7 @@ including:
 - [The Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/)
 - [The Stanford Sentiment Treebank (SST)](https://nlp.stanford.edu/sentiment/treebank.html)
 - [The Stanford Natural Language Inference dataset (SNLI)](https://nlp.stanford.edu/projects/snli/)
-- The Holistic Evaluation of Language Models (HELM) benchmark
-- WILDS: A benchmark of in-the-wild distribution shifts
-- Alpaca Eval evaluation of instruction-following LLMs
+- [The Holistic Evaluation of Language Models (HELM) benchmark](https://crfm.stanford.edu/helm/)
+- [WILDS: A benchmark of in-the-wild distribution shifts](https://wilds.stanford.edu/)
+- [Alpaca Eval evaluation of instruction-following LLMs](https://tatsu-lab.github.io/alpaca_eval/)
 
