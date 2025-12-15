@@ -60,7 +60,7 @@ open-source software releases. Some of the more notable ones are:
 [the string2string algorithms library](https://github.com/stanfordnlp/string2string), 
 [Compositional Attention Networks for Machine Reasoning (MAC networks)](https://github.com/stanfordnlp/mac-network), 
 [the Phrasal statistical machine translation library](https://github.com/stanfordnlp/phrasal),
-[https://github.com/tatsu-lab/gpt_paper_assistant: A daily ArXiv scanner](https://github.com/tatsu-lab/gpt_paper_assistant), 
+[GPT4 paper assistant: A daily ArXiv scanner](https://github.com/tatsu-lab/gpt_paper_assistant), 
 and
 [LLaVAR for visual instruction  tuning](https://github.com/SALT-NLP/LLaVAR).
 
